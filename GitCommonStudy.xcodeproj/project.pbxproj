@@ -120,6 +120,11 @@
 				D8F63EA219C7D7AB00407DDB /* Main_iPad.storyboard */,
 				D8F63EA519C7D7AB00407DDB /* DSViewController.h */,
 				D8F63EA619C7D7AB00407DDB /* DSViewController.m */,
+				D8F63EC919C7D83B00407DDB /* LiHong */,
+				D8F63EC819C7D83300407DDB /* DengShengBin */,
+				D8F63EC719C7D82A00407DDB /* YanDingXiang */,
+				D8F63EC619C7D81C00407DDB /* FuDongDong */,
+				D8F63EC519C7D80C00407DDB /* LiRiHuang */,
 				D8F63EA819C7D7AB00407DDB /* Images.xcassets */,
 				D8F63E9419C7D7AB00407DDB /* Supporting Files */,
 			);
@@ -153,6 +158,41 @@
 				D8F63EB819C7D7AC00407DDB /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		D8F63EC519C7D80C00407DDB /* LiRiHuang */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = LiRiHuang;
+			sourceTree = "<group>";
+		};
+		D8F63EC619C7D81C00407DDB /* FuDongDong */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = FuDongDong;
+			sourceTree = "<group>";
+		};
+		D8F63EC719C7D82A00407DDB /* YanDingXiang */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = YanDingXiang;
+			sourceTree = "<group>";
+		};
+		D8F63EC819C7D83300407DDB /* DengShengBin */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = DengShengBin;
+			sourceTree = "<group>";
+		};
+		D8F63EC919C7D83B00407DDB /* LiHong */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = LiHong;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -471,6 +511,7 @@
 				D8F63EC119C7D7AC00407DDB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D8F63EC219C7D7AC00407DDB /* Build configuration list for PBXNativeTarget "GitCommonStudyTests" */ = {
 			isa = XCConfigurationList;
@@ -479,6 +520,7 @@
 				D8F63EC419C7D7AC00407DDB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
